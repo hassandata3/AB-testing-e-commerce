@@ -57,4 +57,4 @@ Desktop shows a bigger lift than mobile (+6.02 vs +2.70 pp), but mobile's observ
 | `checkout_ab_test.csv` | dataset |
 | `ab_test_carousel.pdf` | 5-slide summary |
 
-**Tools:** pandas · numpy · scipy · statsmodels · matplotlib · MySQL
+**Tools:** pandas · numpy · scipy · statsmodels · matplotlib 
